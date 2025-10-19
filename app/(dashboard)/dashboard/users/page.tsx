@@ -3,6 +3,7 @@ import React from "react";
 
 const UsersPage: React.FC = () => {
   const linkStyle = "text-blue-600 hover:bg-gray-100 hover:text-blue-800";
+
   return (
     <div>
       <h1>Users dashboard</h1>

@@ -1,7 +1,8 @@
+// "use client";
 import React from "react";
 
-const loading = () => {
-  return <div>loading</div>;
+const Loading = () => {
+  return <div>-----------------------------------------------</div>;
 };
 
-export default loading;
+export default Loading;
